@@ -1,1 +1,0 @@
-{"FOV Radius":"37","Smoothness":"1","Aimbot":true,"Y Offset":"100","Show FOV":true,"Visuals Color":"Rainbow","ESP":true,"Tracers":false,"Aim Part":"Head","X Offset":"100"}
